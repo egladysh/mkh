@@ -14,7 +14,7 @@ To generate a header:
 $ mkh > myheader.h
 ```
 
-It'll spit out somethig like this:'
+It'll spit out somethig like
 
 ```cpp
 #ifndef H_754B2010740C456BBF0C7BC264833CAD
