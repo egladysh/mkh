@@ -8,6 +8,11 @@ You can copy it to your local bin like:
 $ sudo cp mkh.sh /opt/local/bin/mkh
 ```
 
+Make sure to set attributes:
+```sh
+$ sudo chmod +x /opt/local/bin/mkh
+```
+
 To generate a header:
 
 ```sh
